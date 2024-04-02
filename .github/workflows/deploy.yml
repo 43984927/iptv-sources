@@ -12,7 +12,6 @@ jobs:
             matrix:
                 node-version: [18.x]
                 # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
         steps:
             - uses: actions/checkout@v3
             - name: Use Node.js ${{ matrix.node-version }}
@@ -25,14 +24,12 @@ jobs:
             - run: yarn install
             - run: yarn build
             - run: yarn m3u
-
             - name: "Jekyll theme"
               run: mv ./_config.temp.yml ./m3u/_config.yml
-
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
                   enable_jekyll: true
-                 cname: <your-own-domain>
+                 cname: 43984927.github.io/iptv-sources
