@@ -1,40 +1,38 @@
-名称：更新脚本
+name: update script
 
 on:
     push:
-        branches: [        分支：[主要]]
+        branches: [main]
 
 jobs:
     build:
-        runs-on:         运行：ubuntu-latest
+        runs-on: ubuntu-latest
 
         strategy:
             matrix:
-                node-version: [                节点版本：[18.x]]
-                # 请参阅支持的 Node.js 发布时间表：https://nodejs.org/en/about/releases/# See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+                node-version: [18.x]
+                # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
         steps:
-            - uses:             - 使用：actions/checkout@v3
-            - name :              - 名称：使用 Node.js $ { { Matrix.node-version } } { { matrix.node-version } }
-              使用：               使用：actions/setup-node@v3
-              和：
-                  节点版本:                   节点版本：$ { {矩阵.节点版本} } {  {矩阵.节点版本}  }
-                  缓存：“npm”
-            -姓名：安装纱
-              跑步：npm install yarn -g
-            -跑步：纱线安装
-            -跑步：纱线构建
-            -运动：yarn m3u
+            - uses: actions/checkout@v3
+            - name: Use Node.js ${{ matrix.node-version }}
+              uses: actions/setup-node@v3
+              with:
+                  node-version: ${{ matrix.node-version }}
+                  cache: "npm"
+            - name: install yarn
+              run: npm install yarn -g
+            - run: yarn install
+            - run: yarn build
+            - run: yarn m3u
 
+            - name: "Jekyll theme"
+              run: mv ./_config.temp.yml ./m3u/_config.yml
 
-            -名称：“杰基尔主题”
-              跑步：mv ./_config.temp.yml ./m3u/_config.yml
-
-            -姓名：部署
-              用途：peaceiris/actions-gh-pages@v3
-              和：
-                  github_token ：$ {  { Secrets.GITHUB_TOKEN }  }
-                  发布目录：./m3u
-                  启用_jekyll：真
-                  cname：43984927.github.io/iptv-sources-1
-
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./m3u
+                  enable_jekyll: true
++                 cname: 43984927.github.io/iptv-sources-1
