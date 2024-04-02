@@ -35,4 +35,5 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
                   enable_jekyll: true
-               cname: <your-own-domain>
+                 cname: 43984927.github.io/iptv-sources
+
