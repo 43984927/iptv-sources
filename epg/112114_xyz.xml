@@ -96,6 +96,9 @@
 	<programme channel="4K综艺" start="20240411202400 +0800" stop="20240411213300 +0800">
 		<title lang="zh">小小的追球20200128</title>
 	</programme>
+	<programme channel="4K综艺" start="20240411213300 +0800" stop="20240411230400 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200122</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -61866,6 +61869,9 @@
 	<programme channel="纯享4K" start="20240411211500 +0800" stop="20240411214500 +0800">
 		<title lang="zh">村庄故事4K 寻根右龙</title>
 	</programme>
+	<programme channel="纯享4K" start="20240411214500 +0800" stop="20240411221500 +0800">
+		<title lang="zh">村庄故事4K 山庄玉露香</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74325,6 +74331,9 @@
 	<programme channel="黑莓动画" start="20240411212800 +0800" stop="20240411214100 +0800">
 		<title lang="zh">08_托宝战士之银河侦探第2季 </title>
 	</programme>
+	<programme channel="黑莓动画" start="20240411214100 +0800" stop="20240411214700 +0800">
+		<title lang="zh">11_西周灭商</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75720,6 +75729,9 @@
 	<programme channel="newtv超级体育" start="20240411193000 +0800" stop="20240411214500 +0800">
 		<title lang="zh">CBA季后赛-12进8 第一场(青岛国信水产-广州龙狮)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240411214500 +0800" stop="20240411222000 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75957,6 +75969,9 @@
 	<programme channel="newtv精品大剧" start="20240411211400 +0800" stop="20240411213400 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240411213400 +0800" stop="20240411232100 +0800">
+		<title lang="zh">11_漫长的季节</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -76065,6 +76080,9 @@
 	<programme channel="newtv精品纪录" start="20240411205400 +0800" stop="20240411214400 +0800">
 		<title lang="zh">02_打虎拍蝇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240411214400 +0800" stop="20240411222200 +0800">
+		<title lang="zh">千城百味（四十七）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -76157,6 +76175,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240411210000 +0800" stop="20240411214500 +0800">
 		<title lang="zh">01_白发</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240411214500 +0800" stop="20240411223000 +0800">
+		<title lang="zh">02_白发</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76533,6 +76554,9 @@
 	<programme channel="newtv动作电影" start="20240411212000 +0800" stop="20240411213900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240411213900 +0800" stop="20240411225300 +0800">
+		<title lang="zh">杀戮部队</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -76634,6 +76658,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240411212100 +0800" stop="20240411214100 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240411214100 +0800" stop="20240411222500 +0800">
+		<title lang="zh">第三场 广东N5俱乐部VS福建梦幻风华正茂（第六局）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -76955,6 +76982,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240411202200 +0800" stop="20240411213900 +0800">
 		<title lang="zh">资深护士同台竞技 超多干货知识打包分享（20220512）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240411213900 +0800" stop="20240411222700 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
