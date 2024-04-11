@@ -243,7 +243,7 @@
 | 237 | [BD]梨园频道 | epg.pw | <https://epg.pw/stream/a36112d79e692baf0c84ddcd85f0a41d2f1c51e55bde4b1b3503cd712070718e.ctv> |
 | 238 | [BD]欢笑剧场 | epg.pw | <https://epg.pw/stream/55f21c99af20049c0452e5ecad863786bf95e1b5ccac2bf569774ef66037af2b.ctv> |
 | 239 | [HD]武义新闻综合 | epg.pw | <https://epg.pw/stream/571f9097fdacfdabda282a2d677089e472be19a1160207daa99c5d47ba171706.m3u8> |
-| 240 | [HD]武汉外语频道 | epg.pw | <https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
+| 240 | [VGA]武汉外语频道 | epg.pw | <https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
 | 241 | [SD]武汉少儿 | epg.pw | <https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8> |
 | 242 | [HD]武汉教育 | epg.pw | <https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8> |
 | 243 | [VGA]武汉文体 (480p) | epg.pw | <https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8> |
@@ -432,4 +432,4 @@
 | 426 | [BD]黑龙新闻法治[ipv6] | epg.pw | <https://epg.pw/stream/08e8dc836a9f361c4c530b31e91fb863e7d3f974cdf9d38126038200f007d3ca.m3u8> |
 | 427 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Thu Apr 11 2024 10:12:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 11 2024 12:19:55 GMT+0000 (Coordinated Universal Time)**
