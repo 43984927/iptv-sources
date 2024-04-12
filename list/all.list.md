@@ -295,7 +295,7 @@
 | 289 | [BD]hbo signature (east) us | epg.pw | <https://epg.pw/stream/54809efd6841b1d0ee0caeefe0d75647277344ff1c7d0f4840c7863123369265.m3u8> |
 | 290 | [BD]HBO Signature | epg.pw | <https://epg.pw/stream/b04d10d5b1b876c49b553e91ab4c0f467ef77480ce196f3e64ff3404519a6b80.ctv> |
 | 291 | [HD]HBOSIGNATUREUSA | epg.pw | <https://epg.pw/stream/c35cd6d7f88fe2a82c058311daf5fcc0fb88b7cf4e65ad1749208300989138bc.ctv> |
-| 292 | [BD]HBOWEST | epg.pw | <https://epg.pw/stream/c601131f8306a6936c5d909b95f51223d413ef4c112986404da90f620316ca60.ctv> |
+| 292 | [BD]HBOWEST | epg.pw | <https://epg.pw/stream/2e2f67781551eda6731b83c7b91c53b4236aa6a6afae0133fbeace9a264f40f4.ctv> |
 | 293 | [HD]hbo xtreme | epg.pw | <https://epg.pw/stream/6915206fdb22c6e3f8a6aa5c2192fb2d567a1162a90d48d622be1f86cb658e2a.ctv> |
 | 294 | [BD]HBO Zone | epg.pw | <https://epg.pw/stream/b39a4aae9922d040dd21c067e0b526d5c3ec04d69d202d8e738fec3895682d94.ctv> |
 | 295 | [BD]HBO | epg.pw | <https://epg.pw/stream/634ce7f6f111aa198805dba422ee5609796ebbff0b15d76f5375a0bef7e3e7eb.ctv> |
@@ -2312,4 +2312,4 @@
 | 2306 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2307 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Apr 12 2024 20:11:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 12 2024 22:09:28 GMT+0000 (Coordinated Universal Time)**
