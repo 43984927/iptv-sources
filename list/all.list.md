@@ -205,7 +205,7 @@
 | 199 | [SD]ASTRO AOD 352 | epg.pw | <https://epg.pw/stream/a7e0e17cfa9e509bab0365b9af756766e36b6cd35b13e9ca6abc4fd4e3855701.ctv> |
 | 200 | [SD]ASTRO AOD 353 | epg.pw | <https://epg.pw/stream/91cccb082328d57554a5b69df3fb9e4b0e6db9bcc42e5ba13c7d10465b297ddd.ctv> |
 | 201 | [SD]ASTRO AOD 354 | epg.pw | <https://epg.pw/stream/1cc5f6dbe086dd0479e8f3f7085cc47d2693f23b1c0603226e2c3e14c4c3ad11.ctv> |
-| 202 | [SD]AstroSupersports1 | epg.pw | <https://epg.pw/stream/7f572d82e43a686854eadfaaac08be8a3794890620c61bc0d43ebf6fcb9cd4e9.ctv> |
+| 202 | [BD]AstroSupersports1 | epg.pw | <https://epg.pw/stream/a128a2e3f868fca436fcab08c7e947d79a49c1fbfe01cbb70e55dbe098971bf0.ctv> |
 | 203 | [BD]Astro Supersports 2 | epg.pw | <https://epg.pw/stream/cb3d24235c0ead3a576bd4ad29e08f097bdc8e6be56c702f48ca27c9cb4c2236.ctv> |
 | 204 | [BD]astro supersport 3 | epg.pw | <https://epg.pw/stream/9cf3c54a966de9e04c381d66890bb9153fd28e1e9443bf48b5d9c9230d6c3c7e.ctv> |
 | 205 | [BD]AstroSupersports4 | epg.pw | <https://epg.pw/stream/440ed67d4eaa07a13e67fec75d9c4beb126f71262f86e18f6d8fdb99576a38eb.ctv> |
@@ -732,7 +732,7 @@
 | 726 | [BD]HBO Signature | epg.pw | <https://epg.pw/stream/b04d10d5b1b876c49b553e91ab4c0f467ef77480ce196f3e64ff3404519a6b80.ctv> |
 | 727 | [HD]HBOSIGNATUREUSA | epg.pw | <https://epg.pw/stream/c35cd6d7f88fe2a82c058311daf5fcc0fb88b7cf4e65ad1749208300989138bc.ctv> |
 | 728 | [BD]HBOWEST | epg.pw | <https://epg.pw/stream/b82bcece300a34f4416106b92ef5569fe8948e50c5e4bf0c9f87ec4f08c9b7e0.ctv> |
-| 729 | [HD]hbo xtreme | epg.pw | <https://epg.pw/stream/6915206fdb22c6e3f8a6aa5c2192fb2d567a1162a90d48d622be1f86cb658e2a.ctv> |
+| 729 | [VGA]hbo xtreme sd | epg.pw | <https://epg.pw/stream/9443c5ca1c6bcedd1ee4f88fe8d888d1715e6023b26117e92f4f68555e3d77f7.ctv> |
 | 730 | [BD]HBOZONEUSA | epg.pw | <https://epg.pw/stream/8aa339903e741dff1402bdc47a523c29a339fa3e4dfae2900f80573d90bf7ae7.ctv> |
 | 731 | [BD]HBO | epg.pw | <https://epg.pw/stream/634ce7f6f111aa198805dba422ee5609796ebbff0b15d76f5375a0bef7e3e7eb.ctv> |
 | 732 | [HD]hbo2 | epg.pw | <https://epg.pw/stream/5dff9bb433f87864ace339d470271bb456b859e397fbc5d4d5d0316310ee8ba9.m3u8> |
@@ -1078,7 +1078,7 @@
 | 1072 | [SD]nour el shabeb | epg.pw | <https://epg.pw/stream/c105cd501405341b8a8ddc2be0cb0c39775067df3c94b61e2e4e61924dbdee8f.m3u8> |
 | 1073 | [BD]nowsports1-4k | epg.pw | <https://epg.pw/stream/6f4d010c3a5d821ab8010d71ada30717e1d35e587b593f06271c0c6b495fc533.ctv> |
 | 1074 | [BD]axs tv now (1080p) | epg.pw | <https://epg.pw/stream/724836601896e4352220aba1836d449f5ee96a3c8455f000043d4b5688ec0093.m3u8> |
-| 1075 | [HD]globo sp | epg.pw | <https://epg.pw/stream/97d4a1f596c10382ef2dbb6741ce3bbed89e167c7764724f9e144ff329e6df4a.m3u8> |
+| 1075 | [BD]globo rj 5 | epg.pw | <https://epg.pw/stream/8a24d845fb207077d1052cea42a7b3ca5ca9c5cf7be6119af5bc9ba53ad0e772.m3u8> |
 | 1076 | [HD]vos tv (720p) | epg.pw | <https://epg.pw/stream/4d52b49173c9620b02ac145ed8ab4166b42fbfb178575abe2116aa2686a53932.m3u8> |
 | 1077 | [VGA]sony movies | epg.pw | <https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8> |
 | 1078 | [BD]德国 ok dessau | epg.pw | <https://epg.pw/stream/f8971072c48052bd340770c0ac5d58e2dcdedb3a360a20914e17600d4a60b56a.m3u8> |
@@ -1429,7 +1429,7 @@
 | 1423 | [VGA]syria tv | epg.pw | <https://epg.pw/stream/b9506c5d46e393e9f0d9760d5bbcc58b619c576f3962f488f204be454f0d50ba.m3u8> |
 | 1424 | [HD]t13 | epg.pw | <https://epg.pw/stream/edd54fd098548505d40dbb34882a027e82d4f35bccf6c4fdbb8ba9b01837f273.m3u8> |
 | 1425 | [HD]bx inspire (720p) | epg.pw | <https://epg.pw/stream/68f915f5641cdfda977db532b0e0bc4560a89ee832a68293887b52b449985d75.m3u8> |
-| 1426 | [SD]tbs | epg.pw | <https://epg.pw/stream/6d9e1cc873e240a6e80a44acafa9ec0734dc2d40c519c9ba2a3dc8461c5349cd.m3u8> |
+| 1426 | [SD]tbs | epg.pw | <https://epg.pw/stream/e8ccebbc1069e326bc149004c884ddfe2d761d3fd0208f565bf5efc5c8a9eb8e.m3u8> |
 | 1427 | [BD]sbs news | epg.pw | <https://epg.pw/stream/7dbc1f09a23f99fe326bd3e1d1d60eec333904f6572d00dc598d3dff59e5d759.m3u8> |
 | 1428 | [SD]tbsテレビ | epg.pw | <https://epg.pw/stream/8d11c0432832ab4075bd4fcbac62e53b8bde2b2b3df6fc3eff25bdf121cf6f07.m3u8> |
 | 1429 | [SD]tbsニュース | epg.pw | <https://epg.pw/stream/fbf9f8e67f8ea2d096e2fdad6ffbbf3c715602e92645386193a260af7d5b0e33.m3u8> |
@@ -2364,4 +2364,4 @@
 | 2358 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2359 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Apr 20 2024 16:13:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 20 2024 18:14:36 GMT+0000 (Coordinated Universal Time)**
