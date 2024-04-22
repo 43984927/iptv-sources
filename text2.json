@@ -49,12 +49,7 @@
 
 
        
-{"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
-                        "style": {
-                                "type": "rect",
-                                "ratio": 1.5
-                        }
-    },
+
 {
             "key": "csp_91黑料",
             "name": "91黑料",
