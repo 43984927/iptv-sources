@@ -14,6 +14,79 @@
   ],
   "sites": [
     {
+            "key": "Eighteen",
+            "name": "Eighteen",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Netflav",
+            "name": "csp_Netflav",
+            "type": 3,
+            "api": "csp_Netflav",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Taohuazu",
+            "name": "csp_Taohuazu",
+            "type": 3,
+            "api": "csp_Taohuazu",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "csp_JavBus",
+            "name": "csp_JavBus",
+            "type": 3,
+            "api": "csp_JavBus",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "Jable",
+            "name": "Jable",
+            "type": 3,
+            "api": "csp_Jable",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "JavBus",
+            "name": "JavBus",
+            "type": 3,
+            "api": "csp_JavBus",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "JavDb",
+            "name": "JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "JavBus",
+            "name": "JavBus",
+            "type": 3,
+            "api": "csp_JavBus",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "Miss",
+            "name": "Miss",
+            "type": 3,
+            "api": "csp_Miss",
+            "searchable": 0,
+            "changeable": 1
+        },
+    
+    {
       "key": "易搜",
       "name": "易搜┃小二",
       "type": 3,
