@@ -21,7 +21,6 @@
 
 {"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
 
-{"key":"色播","name":"色播🔞","type":3,"api":"./json/色播.js","searchable":1,"changeable":0,"style":{"type":"list"}},
     {
             "key": "Taohuazu",
             "name": "💖💃 | 桃花族",
