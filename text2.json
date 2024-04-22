@@ -13,6 +13,224 @@
     }
   ],
   "sites": [
+    { "key":"ppp","name":"🔞ppp|fq","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"rect","ratio":1.6},
+            "ext": {
+                "直接播放": "1",
+                "图片": "data-src=\"&&\"",
+        "分类":"中國AV$china-av#日本片商$japan-producer#素人自拍$amateur#中國$china#台灣$taiwan#日本$japan#東南亞$se-asia#韓國$korea#香港$hongkon#Cosplay$cosplay#主播$streamer#主觀視角$first-person-pov#凌辱$bdsm#劇情$drama#多P$threesome#探花$91-tanhua#流出$released#無碼$uncensored#百合$lesbian#野外露出$exhibitionists#OL$office-lady#動漫$ac#古裝$costume#女僕$maid#學生$student#旗袍$cheongsam#獸耳$kemonomimi#瑜伽褲$yoga-pants#真理褲$dolfin-shorts#空姐$flight-attendant#絲襪$pantyhose#護士$nurse#過膝襪$knee-socks",
+                "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/"
+      }
+        },
+    {
+      "key": "BT天堂",
+      "name":"🌈BT天堂 ┃ 影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"分类链接": "https://www.bt-tt.com/html/{cateId}-{catePg}.html"},
+      "jar": "./lib/XBPQ.jar"
+    },
+    { 
+            "key": "jable",
+            "name": "💃👠 | jable",
+            "type": 3,
+            "jar":"./lib/XBPQ.jar",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext":
+            {
+            "直接播放":"1",
+            "搜索模式":"1",
+            "搜索url":"https://jable.tv/search/{wd}/",
+            "数组":"<div class=\"img-box cover-md\">&&</h6>",
+            "图片":"data-src=\"&&\"",
+            "标题":"class=\"title\">&&</a>",
+            "链接":"href=\"&&\"",
+            "链接前缀":"https://jable.tv",
+            "副标题":"<span class=\"label\">&&</span>",
+            "播放数组":"<h6&&</h6>",
+            "播放列表":"<a&&/a>",
+            "播放标题":">&&<",
+            "播放链接":"href=\"&&\"",
+            "分类":"最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categories/rape#制服$categories/uniform#角色$categories/roleplay#偷拍$categories/hidden-cam#无码解码$categories/uncensored#多P$categories/groupsex#丝袜$categories/pantyhose",
+            "分类url":"https://jable.tv/{cateId}/{catePg}/",
+            "免嗅":"0",
+            "嗅探词":".m3u8#.mp4"
+              }
+            },
+    {
+            "key": "SMTV",
+            "name": "色迷TV(好色)",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "地址发布页": "https://hsex.icu/",
+                "直接播放": "1",
+                "数组": "class=\"col-xs-6 col-md-3\">&&</div>",
+                "图片": "style=\"background-image: url('&&')\"",
+                "链接": "href=\"&&\"",
+                "链接前缀": "https://hsex.icu/",
+                "搜索url": "https://hsex.icu/search.htm?search={wd}&sort=new",
+                "分类": "周榜$top7#月榜$top#5分钟$5min#10分钟$long",
+                "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"
+            }
+        },
+    {"key":"SMTV","name":"🔞色迷TV","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":{"嗅探词":"https://cdn.bigcloud.click/hls/956537/index.m3u8?","数组":"class=\"col-xs-6 col-md-3\">&&</div>","播放数组":"","图片":"style=\"background-image: url('&&')\"", "链接": "https://hsex.icu/player.html?id=+href=\"video.html?id=&&\"","链接前缀":"https://hsex.icu/","搜索url":"https://hsex.icu/search.htm?search={wd}&sort=new","分类":"周榜$top7#月榜$top#5分钟$5min#10分钟$long","免嗅":"0","分类url":"https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"}},
+    
+    {
+            "key": "ppp",
+            "name": "🔞ppp┃BPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_xBPQ",
+            "jar": "./Yoursmile2.jar",
+            "ext": {
+                "直接播放": "1",
+                "嗅探词": "m3u8#.m3u8",
+                "数组": "<figure class=\"aspect-ratio\">&&</a",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://ppp.porn/search/{wd}/",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索数组": "<figure class=\"aspect-ratio\">&&</a",
+                "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a",
+                "分类": "china-av$china-av#japan-producer$japan-producer#amateur$amateur#台湾$taiwan#野外露出$exhibitionists#无码$uncensored"
+                }
+        },
+    {
+            "key": "视色",
+            "name": "视色(T)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "手机",
+                "免嗅": "",
+                "嗅探词": "https://s1.playhls.com/m3u8.php?",
+                "数组": "class=\"video-cover&&class=\"tags",
+                "图片": "style=\"background-image: url('&&');\"",
+                "标题": "href=\"*\">&&</a>",
+                "副标题": "duration\">&&</div>",
+                "简介": "简介：</div>&&</div>",
+                "链接": "https://shise.me/player.html?id=+href=\"video.html?id=&&\"",
+                "跳转播放链接": "",
+                "分类url": "https://shise.me/series.html?id={cateId}&page={catePg};;z",
+                "分类": "情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"
+            }
+        },
+    {"key":"视色","name":"视色(T)","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","playerType":"0","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?","数组":"class=\"video-cover&&class=\"tags","图片":"style=\"background-image: url('&&');\"","标题":"href=\"*\">&&</a>","副标题":"duration\">&&</div>","简介":"简介：</div>&&</div>","链接":"player.html?id=+href=\"video.html?id=&&\"","链接前缀":"https://shise.me/","线路数组":"class=\"title\"> &&</a>","线路标题":"<h1>&&<h1>","播放二次截取":"class=\"player-container\">&&</div>","播放数组":"","播放链接":"src=\"&&\"","播放链接前缀":"https://shise.me/","分类url":"https://shise.me/series.html?id={cateId}&page={catePg};;z","分类":"情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"}},
+    {
+            "key": "视色",
+            "name": "视色(T)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "免嗅": "",
+                "嗅探词": ".m3u8",
+                "数组": "class=\"video-cover&&class=\"tags",
+                "图片": "style=\"background-image: url('&&');\"",
+                "标题": "href=\"*\">&&</a>",
+                "副标题": "duration\">&&</div>",
+                "简介": "简介：</div>&&</div>",
+                "链接": "https://shise.me/player.html?id=+href=\"video.html?id=&&\"",
+                "分类url": "https://shise.me/series.html?id={cateId}&page={catePg};;z",
+                "分类": "情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"
+            }
+        },
+    {"key": "wangfei","name": " ‍🔥网飞BPQ","type": 3,"api": "csp_XBPQ",    "jar":"https://qu.ax/ikKL.png","ext": {"线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]","线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]","分类url": "https://www.wangfei.live/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"}},
+    {
+      "key": "91md.me",
+      "name": "成人18+",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+  }},
+    {
+            "key": "ppp",
+            "name": "ppp┃BPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "直接播放": "1",
+                "嗅探词": ".m3u8",
+                "数组": "<figure class=\"aspect-ratio\">&&</a",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "播放链接前缀": "https://ppp.porn/v",
+                "搜索url": "https://ppp.porn/search/{wd}/",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索数组": "<figure class=\"aspect-ratio\">&&</a",
+                "分类": "中國AV$china-av#日本片商$japan-producer#素人自拍$amateur#中國$china#台湾$taiwan#日本$japan#東南亞$se-asia#韓國$korea#香港$hongkong#Cosplay$Cosplay#主播$streamer#主觀視角$first-person-pov#凌辱$bdsm#劇情$drama#多P$threesome#探花$91-tanhua#流出$released#无码$uncensored#百合$lesbian#野外露出$exhibitionists#OL$office-lady#動漫$acg#古裝$costume#女僕$maid#學生$student#旗袍$cheongsam#獸耳$kemonomimi#瑜伽褲$yoga-pants#真理褲$dolfin-shorts#空姐$flight-attendant#絲襪$pantyhose#護士$nurse#過膝襪$knee-socks",
+                "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a"
+            }
+        },
+    
+    {
+            "key": "短剧TV",
+            "name": "🍿短剧TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "ext": {
+        "分类url": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html",
+        "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"
+            }
+                },
+    {
+                "key": "XBPQ_无忧短剧",
+                "name": "无忧🏄‍♂️短剧",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "./lib/XBPQ.jar",
+                "ext": "./json/无忧短剧.json"
+        },
+    {
+                "key": "XBPQ_无忧短剧",
+                "name": "无忧🏄‍♂️短剧",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "./XBPQ.jar",
+                "ext": {
+                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
+                        "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
+                }
+        },
+    {"key":"榜一短剧","name":"🥇榜一┃短剧","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":{"分类":"逆袭短剧$1#甜宠短剧$3#虐恋短剧$5#穿越短剧$7#重生短剧$9#都市短剧$11#现代言情短剧$13#古装短剧$15#古代言情短剧$17#战神短剧$19#神医短剧$21#神豪短剧$23#超能短剧$25#萌宝短剧$27#复仇短剧$29#脑洞短剧$31#赘婿短剧$33#玄幻短剧$35#热血短剧$37#其他短剧$39","分类url":"https://duanjuu.com/vodshow/{cateId}--------{catePg}---.html;;m"}},
+    
+    {"key":"Taohuazu","name":"桃花族🔞","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"},
+    {
+            "key": "91电影",
+            "name": "91电影网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/91电影网.json"
+        },
+    
     {"key":"玉兔","name":"玉兔🔞vpn","type": 0,"style":{"type":"rect", "ratio":1.485},"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 
 {"key":"MissAV","name":"MissAV🔞vpn","type":3,"api":"csp_Miss","searchable":1},
@@ -35,6 +253,53 @@
     {
 "key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/caiji.php"
         },
+    {"key":"高清网",
+      "name":"📹高清网 | 4K磁力",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext":{
+        "搜索链接":"https://gaoqing.la/page/{pg}?cat&s={wd}",
+        "简介":"◎简*介</p>&&</p>",
+        "影片年代":"◎上映 日期&&<br>",
+        "影片地区":"◎产*地&&<br>",
+        "图片是否需要代理": "1",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"磁力",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p>[包含:magnet]",
+        "播放链接":"</a>&&</a>",
+        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
+      }
+    },
+    {"key":"布谷tv","name":"🔴布谷4K|磁力","type":3,"api":"csp_XBPQ","jar": "./lib/XBPQ.jar",
+      "ext":{
+        "搜索链接":"https://www.bugutv.org/page/{pg}?cat&s={wd}",
+        "简介":"◎简*介</p>&&</p>",
+        "影片年代":"◎上映 日期&&<br>",
+        "影片地区":"◎产*地&&<br>",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"磁力",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p>[包含:magnet]",
+        "播放链接":"*\">&&</a>",
+        "分类":"4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+        "分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"
+      }
+    },
+    {
+      "key": "bugu",
+      "name":"🌈bugutv ┃ 影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"},
+      "jar": "./lib/XBPQ.jar"
+    },
+    
     
     {
       "key": "厂长",
