@@ -245,4 +245,4 @@
 | 239 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 | 240 | NextUp Live Comedy | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8> |
 
-Updated at **Mon Apr 22 2024 23:34:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 22 2024 23:36:01 GMT+0000 (Coordinated Universal Time)**
