@@ -14,6 +14,9 @@
   ],
   "sites": [
     {
+"key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/caiji.php"
+        },
+    {
       "key": "苹果",
       "name": "🍎小苹果┃App",
       "type": 3,
