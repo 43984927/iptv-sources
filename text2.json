@@ -13,6 +13,15 @@
     }
   ],
   "sites": [
+    {
+      "key": "易搜",
+      "name": "易搜┃小二",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "jar": "./小二在线.txt;md5;9440a06ce42dc3f6906d0184c14ca5dd",
+      "changeable": 0
+    },
 {
             "key": "JavBus",
             "name": "😚JavBus",
