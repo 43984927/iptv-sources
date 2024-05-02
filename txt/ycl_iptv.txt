@@ -26,9 +26,11 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 
 卫视,#genre#
-凤凰中文,https://tv.iill.top/jd/fhzw
-凤凰资讯,https://tv.iill.top/jd/fhzx
-凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
+凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,https://z88.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
+凤凰香港,https://z88.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
+凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
