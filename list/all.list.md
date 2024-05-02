@@ -338,7 +338,7 @@
 | 332 | [BD]cctv 第一剧场 | epg.pw | <https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8> |
 | 333 | [BD]cctv 卫生健康 | epg.pw | <https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8> |
 | 334 | [BD]cctv电视指南 | epg.pw | <https://epg.pw/stream/b8e394cc5ff1448dedc3638a10994d8bb02eefca9c56e70f323df8f4a55e4aaa.m3u8> |
-| 335 | [BD]cctv风云剧场 | epg.pw | <https://epg.pw/stream/8c5ede6ea5578a0a7f3971a31ff8043098e43268eeb2af377ed3c17b2ad7377d.ctv> |
+| 335 | [BD]cctv 风云剧场 | epg.pw | <https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8> |
 | 336 | [VGA]cctv 风云足球 | epg.pw | <https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8> |
 | 337 | [SD]cctv音乐 | epg.pw | <https://epg.pw/stream/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8> |
 | 338 | [VGA]cdn | epg.pw | <https://epg.pw/stream/ef3e8a0898e223967c807a1cb05506695d82a89ac54415847fe2ee97dae41e3f.m3u8> |
@@ -1198,7 +1198,7 @@
 | 1192 | [SD]sctv9 | epg.pw | <https://epg.pw/stream/f9736064c3c0584bdbc2a3158f638f514c1c2d12c6c8570eff855b308ef4a3b4.m3u8> |
 | 1193 | [HD]sharjah tv | epg.pw | <https://epg.pw/stream/7a5c7078219ffbda0fa70c2aa0260af9f1301e9ddbdab4ed010bae2f9d2646f1.m3u8> |
 | 1194 | [BD]sic | epg.pw | <https://epg.pw/stream/58a2459dbd4621756210223482849e6c63f12b1084e831996c9c0b3314bcfac3.m3u8> |
-| 1195 | [BD]sky sport bundesliga 1 | epg.pw | <https://epg.pw/stream/1300c35c113fd09f14dfc554da69f89ba7bcb96ab407003405a49e2023dbad37.ctv> |
+| 1195 | [HD]sky sport bundesliga 5 | epg.pw | <https://epg.pw/stream/620c87292ce7c13bb65de80956e6ae92518df651478a63730b07810ba7d46c46.ctv> |
 | 1196 | [HD]vf thriller | epg.pw | <https://epg.pw/stream/f4769f25d0af0b6d2d1d7563aea82611c82723cb537a8ca45585f83e0344e989.m3u8> |
 | 1197 | [BD]ช่อง sky crime | epg.pw | <https://epg.pw/stream/99669c74ddbe9f5605e93beb593c8008d05a61ee5316376355665ebeef970bb3.ctv> |
 | 1198 | [HD]ช่อง sky news | epg.pw | <https://epg.pw/stream/c5e4d6d0dc19f37b4844fcb3da80d62041e4c26c557b005e150e795e3cf7d18d.m3u8> |
@@ -2156,4 +2156,4 @@
 | 2150 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2151 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu May 02 2024 06:15:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 02 2024 08:15:09 GMT+0000 (Coordinated Universal Time)**
