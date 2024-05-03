@@ -120,7 +120,7 @@
 | 114 | [HD]amman tv (720p) | epg.pw | <https://epg.pw/stream/6146eec187bc842146efbad448c67f8a73b939b3a738775bd55eb5d68070ad75.m3u8> |
 | 115 | [VGA]al anwar 2 | epg.pw | <https://epg.pw/stream/bbfc6a8abd2a36ae14d176980f2db43df0fb46ec8133d19fc9443e23da296d43.m3u8> |
 | 116 | [VGA]al aoula laayoune (360p) | epg.pw | <https://epg.pw/stream/87d7e435016add038b8d3d7a9713edc8d96f27396d656612ce07063fa36fe068.m3u8> |
-| 117 | [BD]al arabiya | epg.pw | <https://epg.pw/stream/b0f422ed3351c36fde53f15173cd47bd5dd9987eedc3a82dc2bd24b5a0e084b2.m3u8> |
+| 117 | [HD]al arabiya | epg.pw | <https://epg.pw/stream/b0f422ed3351c36fde53f15173cd47bd5dd9987eedc3a82dc2bd24b5a0e084b2.m3u8> |
 | 118 | [BD]albaghdadiya | epg.pw | <https://epg.pw/stream/c1e15a781b6e222e067dff25cfde55ec88c5700cb2a4458b8836c6f25042984c.ctv> |
 | 119 | [VGA]al eshraq tv | epg.pw | <https://epg.pw/stream/8c32b44dc0b614b741608685ee5c55cfb25208229fe5aa15f283605ad27c18fb.m3u8> |
 | 120 | [SD]al hayat tv (720p) | epg.pw | <https://epg.pw/stream/4c8c22d594c5b32c0a57b82a1236068e9908c043d4844c68bd8431993c42e0d7.m3u8> |
@@ -518,7 +518,7 @@
 | 512 | [HD]dotto tv | epg.pw | <https://epg.pw/stream/5918f3e6a3744dfb92480240c6f233071d8cf12c7291777cc25f9582d998c732.m3u8> |
 | 513 | [HD]rakuten drama | epg.pw | <https://epg.pw/stream/5896d8e6b996a52a790504e7bd2ccccedb471537ce3c592d4ce31cc24a9dccbe.m3u8> |
 | 514 | [VGA]dream tv | epg.pw | <https://epg.pw/stream/81de158f518d8d73a593a8f4412557d2b902c334cec28b4f4631a2b8638d318b.m3u8> |
-| 515 | [VGA]dubai one | epg.pw | <https://epg.pw/stream/720c3797e2fcbe5e069bccef6ecf6882a0b31da4d2555d08d160872d5572dc79.m3u8> |
+| 515 | [BD]dubai one | epg.pw | <https://epg.pw/stream/720c3797e2fcbe5e069bccef6ecf6882a0b31da4d2555d08d160872d5572dc79.m3u8> |
 | 516 | [VGA]dubai racing 2 | epg.pw | <https://epg.pw/stream/18a9b05f3d9b89edb848503c42abd3ff8911b75bfe6b26af123bad6ad7d7bcec.m3u8> |
 | 517 | [VGA]dubai racing | epg.pw | <https://epg.pw/stream/cf2ffed2559af6dae582946d1ebd7b5a5112a328dcb8e394067de19b3ecde256.m3u8> |
 | 518 | [BD]dubai sports 3 (1080p) [not 24/7] | epg.pw | <https://epg.pw/stream/1a8e0a7d48c7829d5c9e663881ddc7a5954e2a9a550ad344883d55e9b5aaab2b.m3u8> |
@@ -1196,7 +1196,7 @@
 | 1190 | [HD]star (720p) | epg.pw | <https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8> |
 | 1191 | [BD]star movies hd | epg.pw | <https://epg.pw/stream/97db7f94589195cf68eb0f60d8efb393e60aa481f04aac6cfd355864a867841d.ctv> |
 | 1192 | [BD]studio universal hd | epg.pw | <https://epg.pw/stream/8ab1902ff8467408b107ee36e59937ccbc2291177d6de37a2c179f9b5453e0f0.ctv> |
-| 1193 | [BD]istv | epg.pw | <https://epg.pw/stream/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8> |
+| 1193 | [HD]istv | epg.pw | <https://epg.pw/stream/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8> |
 | 1194 | [HD]tastemade deutschland (720p) | epg.pw | <https://epg.pw/stream/372cec4602bcfa4de18c42f1f3782bd24a0cf2d1a0f8576c107ad162780349e4.m3u8> |
 | 1195 | [HD]abai tv | epg.pw | <https://epg.pw/stream/01d6c88a4a3c095dd372c6587ad2c84ac282394364c55452999cad6411088071.m3u8> |
 | 1196 | [HD]safari tv | epg.pw | <https://epg.pw/stream/7ff598a551801d00f0c9eb92140b9ea2f5b514a3fff6148a6a24ac52e1b2eb34.m3u8> |
@@ -2135,4 +2135,4 @@
 | 2129 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2130 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri May 03 2024 20:13:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 03 2024 22:11:29 GMT+0000 (Coordinated Universal Time)**

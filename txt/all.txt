@@ -323,7 +323,7 @@ Entertainment,#genre#
 [SD]deluxe_music,https://epg.pw/stream/5f3fd38387f00249b4a301f8fa1a0afeffba24fc25e6e630cd6499386593ee1c.m3u8
 [HD]world_animal_hd,https://epg.pw/stream/658f58e1af6b8cbc6cd1b7b0066f7c90c4c4820710128f7f16154177fbce49d1.ctv
 [VGA]dream_tv,https://epg.pw/stream/81de158f518d8d73a593a8f4412557d2b902c334cec28b4f4631a2b8638d318b.m3u8
-[VGA]dubai_one,https://epg.pw/stream/720c3797e2fcbe5e069bccef6ecf6882a0b31da4d2555d08d160872d5572dc79.m3u8
+[BD]dubai_one,https://epg.pw/stream/720c3797e2fcbe5e069bccef6ecf6882a0b31da4d2555d08d160872d5572dc79.m3u8
 [BD]express_entertainment,https://epg.pw/stream/9509afe9725c482144b0b733fe80bd9dc3d27d804487fa569ec6d4545f347542.m3u8
 [SD][美国]the360channel[1280*640][1280*640],https://epg.pw/stream/2eb6639381f901d551384cae064bdb34447043a83a40da925a1c0d10b76e2161.m3u8
 [HD]enlace,https://epg.pw/stream/4c0ba9c5bc2031534447093f0caffd2736d176cc73916a155a276243920ae823.m3u8
@@ -415,7 +415,7 @@ Entertainment,#genre#
 [HD]salto_1_(720p),https://epg.pw/stream/3b10a03c79adef0b570d2bc9ac041ad47eae0e9c3b1082a97131e7446c78b4c0.m3u8
 [BD]sbs_빽드,https://epg.pw/stream/6137d4cc9a2a2a26e680f8823d5bb2e63fd916b4965bd55cd8d4a45b374a2872.m3u8
 [BD]sony_max,https://epg.pw/stream/def241336f673d665639222983ed65236b0e8e350bc75fc2f3eab6e62d494a43.ctv
-[BD]istv,https://epg.pw/stream/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8
+[HD]istv,https://epg.pw/stream/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8
 [HD]abai_tv,https://epg.pw/stream/01d6c88a4a3c095dd372c6587ad2c84ac282394364c55452999cad6411088071.m3u8
 [SD]saab_tv,https://epg.pw/stream/310573e3c1f71eb3b1b0fa19d3cb13d02a6ad7f2346ce95e199ae0b54558aec4.m3u8
 [HD]土耳其_semerkand_tv,https://epg.pw/stream/39540fc27b4d5593fab770e3099d5415e9227ebcb37a02ded9692e0562e6c427.m3u8
@@ -551,7 +551,7 @@ Generic,#genre#
 [VGA]agrotv,https://epg.pw/stream/67496ac76e26f2dce802b8e5f2563060b4af48847f0318b924f54ef325ca1916.m3u8
 [HD]amman_tv_(720p),https://epg.pw/stream/6146eec187bc842146efbad448c67f8a73b939b3a738775bd55eb5d68070ad75.m3u8
 [VGA]al_aoula_laayoune_(360p),https://epg.pw/stream/87d7e435016add038b8d3d7a9713edc8d96f27396d656612ce07063fa36fe068.m3u8
-[BD]al_arabiya,https://epg.pw/stream/b0f422ed3351c36fde53f15173cd47bd5dd9987eedc3a82dc2bd24b5a0e084b2.m3u8
+[HD]al_arabiya,https://epg.pw/stream/b0f422ed3351c36fde53f15173cd47bd5dd9987eedc3a82dc2bd24b5a0e084b2.m3u8
 [BD]albaghdadiya,https://epg.pw/stream/c1e15a781b6e222e067dff25cfde55ec88c5700cb2a4458b8836c6f25042984c.ctv
 [SD]al_hayat_tv_(720p),https://epg.pw/stream/4c8c22d594c5b32c0a57b82a1236068e9908c043d4844c68bd8431993c42e0d7.m3u8
 [HD]al_iraqiya_(720p)_[not_24/7],https://epg.pw/stream/fd7ecaa89de7c8104e4c0cd2330a2a3085ffcac1f9eab42769eac46ccda6160a.m3u8
