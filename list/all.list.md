@@ -226,7 +226,7 @@
 | 220 | [HD]bet | epg.pw | <https://epg.pw/stream/f1ffadad9f59c53481dd143353cd696dbaf856186d80c0bd3cb2cf12fd9b5166.m3u8> |
 | 221 | [SD]be tv | epg.pw | <https://epg.pw/stream/0760d232ad9c68b4d47174a7f56e3091dd3123f4a12716f622c60f728117c9bf.m3u8> |
 | 222 | [BD]bfm business | epg.pw | <https://epg.pw/stream/d4a69928c8e2a54857c7c61981350df03786600da04c19b1d3d3b36bd545082b.m3u8> |
-| 223 | [BD]new brasil | epg.pw | <https://epg.pw/stream/c5f2a8687c5924d232b19fd1d4d9c78ca9af4f5b39f6a478739e8f8225f95161.m3u8> |
+| 223 | [BD]new brasil | epg.pw | <https://epg.pw/stream/930b55e553a62e3d89c7a64f2b22fac6243493404f20dba4375d9852b2318b76.m3u8> |
 | 224 | [BD]biz tv | epg.pw | <https://epg.pw/stream/2a387cabd03346b383b5c57d308a6d1d0f3b8185e39ebbefad971327af425cdc.m3u8> |
 | 225 | [SD]bolt | epg.pw | <https://epg.pw/stream/604db51a3b2eb007e5977f2c67826283d40a002cc9187ec0537f230445147ea0.m3u8> |
 | 226 | [HD]BOO | epg.pw | <https://epg.pw/stream/abf8b56f7d1b543138f640b469d4e26dd62b42be55d099c6707b994dd7877aa7.ctv> |
@@ -371,7 +371,7 @@
 | 365 | [VGA]cnn | epg.pw | <https://epg.pw/stream/a3a41590f423f3132a6913875251e0aae350ff9be85cfaf24e2930680e8306d1.m3u8> |
 | 366 | [BD]CNNHD | epg.pw | <https://epg.pw/stream/d62690849767883ac46096be2bedf12a1078bbf6b8f630051fbb52751e146803.ctv> |
 | 367 | [HD]hln (720p) | epg.pw | <https://epg.pw/stream/c944966d71f2a97bfea2d957ae59051819d482f7acdcbe2187cbbea67ef7c68f.m3u8> |
-| 368 | [HD]cnn indonesia (720p) | epg.pw | <https://epg.pw/stream/d93a58b071c1b96199c48d38fa87fa3caa292de5ed1e0c1622e2ad2f9a2f0229.m3u8> |
+| 368 | [HD]cnn indonesia (720p) [geo-blocked] | epg.pw | <https://epg.pw/stream/d93a58b071c1b96199c48d38fa87fa3caa292de5ed1e0c1622e2ad2f9a2f0229.m3u8> |
 | 369 | [HD]afghanistan international | epg.pw | <https://epg.pw/stream/a433069711ef3cd1c6303c7c39fd82b9b186bda721aa04c0d7d64e1815efa98b.m3u8> |
 | 370 | [HD]cnn turk | epg.pw | <https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.m3u8> |
 | 371 | [HD]cnn usa (720p) | epg.pw | <https://epg.pw/stream/8f00cf1e1b9e5033eb0981c4133b321c3812c3bb977c3f497eb2762ca045a075.m3u8> |
@@ -664,7 +664,7 @@
 | 658 | [BD]HBO2HDUSA | epg.pw | <https://epg.pw/stream/a6128ed3acd08bc1a06e9b77a4799fc1cb09aafdba11f37204b019d1f0d593ae.ctv> |
 | 659 | [HD]HBO3 | epg.pw | <https://epg.pw/stream/dc75777194eaeb8edc2b563adbbe0037c552ed3c0f6e9b66df6b8a672b0b75a9.ctv> |
 | 660 | [BD]HBO ASIA | epg.pw | <https://epg.pw/stream/753b8be4e27b542f28e5e77959b0713a54846dc6ebd6b738937cf5cf5cc1f566.ctv> |
-| 661 | [BD]HBOCOMEDY | epg.pw | <https://epg.pw/stream/adac20d008842a402ce76c11bc4629d087e99a721b05a5c7e88da8667bfd28f3.ctv> |
+| 661 | [BD]HBO COMEDY | epg.pw | <https://epg.pw/stream/15263fc82442e207e253f7cb747c1797a9e97458b199d491f7347b2a5538e293.ctv> |
 | 662 | [BD]HBO East | epg.pw | <https://epg.pw/stream/ab6af75401a4d758d3dd45b67a8db5b944c841d1c4cd1f92c1e6071ac8a0c4c9.ctv> |
 | 663 | [VGA]hbo family | epg.pw | <https://epg.pw/stream/5f6c7675f4860477f52ee6abd1cc8cba92a992c90f7b3e1ba539658ecbe07bd3.ctv> |
 | 664 | [BD]HBOFAMILYUSA | epg.pw | <https://epg.pw/stream/7bb2b6ae86300171ae20fa7bb9479b8037b1ee665975836228e82561976ecf72.ctv> |
@@ -807,7 +807,7 @@
 | 801 | [BD]sula tv | epg.pw | <https://epg.pw/stream/7a8aab32c9db87541dd69ff759121d4cf7e1be8339ada326f4524441c7f0b8e7.m3u8> |
 | 802 | [VGA]kurd channel | epg.pw | <https://epg.pw/stream/c786d2ef8c29b29e5c9b960c953fd9824ebd0e9f3b450e902a4beb1e88d3742e.m3u8> |
 | 803 | [HD]kurdistan 24 (720p) | epg.pw | <https://epg.pw/stream/fd1b09f8d58755d2e1c06853bcd14301e96dace558c5b3384fb9826f1439b46c.m3u8> |
-| 804 | [HD]Kurdistan B | epg.pw | <https://epg.pw/stream/86ef507ad60cc88112635f61be4535c34fc8d15da88d79613386a6172fcd0ccd.m3u8> |
+| 804 | [VGA]Kurdistan B | epg.pw | <https://epg.pw/stream/86ef507ad60cc88112635f61be4535c34fc8d15da88d79613386a6172fcd0ccd.m3u8> |
 | 805 | [BD]kurdsat news | epg.pw | <https://epg.pw/stream/70b873903778e252315b634695ca815f1a6aab0717744785a76daf71706f96d6.m3u8> |
 | 806 | [BD]kuriakos kids | epg.pw | <https://epg.pw/stream/c15b1ef00859b223d2f4f7a250bf8a0133e75d83a73ec03e19f5ea8e238c9dd0.m3u8> |
 | 807 | [BD]tv 1 | epg.pw | <https://epg.pw/stream/6b5a5d45a4ca051166cd8f03ee83622b36916e63fe37cc60ec7c79650f760061.m3u8> |
@@ -1358,7 +1358,7 @@
 | 1352 | [HD]tv aberta | epg.pw | <https://epg.pw/stream/bdf2cad4a6119b98de39302cb49793fc16e4aed9536058e4e25e4d335ef954e0.m3u8> |
 | 1353 | [BD]spacetoon | epg.pw | <https://epg.pw/stream/e7538ba3ef158b5c8796ede528c28252cb404f9503b484f569661e9376fc1e3f.m3u8> |
 | 1354 | [BD]tv aparecida | epg.pw | <https://epg.pw/stream/cdeccafc58d7205d3b9c772893283209f61a78af6c56c1b1edf8e3446772735c.m3u8> |
-| 1355 | [SD]tv brasil | epg.pw | <https://epg.pw/stream/98508e21fdc648ea13ff221f28750af9da787f693f3a16afd25ba632e64c35f2.m3u8> |
+| 1355 | [BD]mavtv brasil | epg.pw | <https://epg.pw/stream/dc15da4b3df2d6275428e1028e290a56fe0d6302c7d3ee726d56089d392706f1.m3u8> |
 | 1356 | [BD]tv chosun 국가가 부른다 | epg.pw | <https://epg.pw/stream/67775ea83938d20069e0581c779f9e28544db665a25fa466d511d4a47a968ce5.m3u8> |
 | 1357 | [HD]tv clube | epg.pw | <https://epg.pw/stream/905e38ed1df81593fbf94e422ffc956fb03b5eb6f04b2f4138c77135fea61ff3.m3u8> |
 | 1358 | [SD]creta | epg.pw | <https://epg.pw/stream/b2650ae61c4ba14a732bab6cd4e5aaa747ca410438a5f422f73167c1c0107c6f.m3u8> |
@@ -1790,7 +1790,7 @@
 | 1784 | [VGA]吉林公共 | epg.pw | <https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8> |
 | 1785 | [VGA]吉林影视 | epg.pw | <https://epg.pw/stream/64c6da042a172abe0b223936e2b7d91d4109fa5c8e416b5bb7a265e36e0f43d7.m3u8> |
 | 1786 | [VGA]吉林生活 | epg.pw | <https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8> |
-| 1787 | [HD]吉林卫视v | epg.pw | <https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
+| 1787 | [BD]吉林卫视v | epg.pw | <https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv> |
 | 1788 | [VGA]吉林都市 | epg.pw | <https://epg.pw/stream/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8> |
 | 1789 | [VGA]吉林乡村 (900p) [not 24/7] | epg.pw | <https://epg.pw/stream/69c843e9479e054c8323b5a23b74f4f70e8fd3d87354bcbef12195bed8043aeb.m3u8> |
 | 1790 | [BD]周星星 | epg.pw | <https://epg.pw/stream/697d8897aa092fac7beb31b9806dfd4bb3197e96d9b15e752766d89f5fb66672.ctv> |
@@ -2135,4 +2135,4 @@
 | 2129 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2130 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri May 03 2024 22:11:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 04 2024 00:51:45 GMT+0000 (Coordinated Universal Time)**
