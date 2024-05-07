@@ -93,7 +93,7 @@
 | 87 | [BD]全纪实 | epg.pw | <https://epg.pw/stream/2d9108efd241fb2214b9b653b9da63bfd59d91a37341f98396be49a9157ef849.ctv> |
 | 88 | [SD]兵团卫视[ipv6] | epg.pw | <https://epg.pw/stream/7e0d9638f60dca70ddc3a2437eb10e874587f11f9d3efd833e71acfbdf2de2d6.m3u8> |
 | 89 | [HD]刘德华 | epg.pw | <https://epg.pw/stream/49c292cf4d4d4f655b580aa0c55277490c9b46e08048a788df3021bd399e1f4f.ctv> |
-| 90 | [BD]劲爆体育 | epg.pw | <https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv> |
+| 90 | [SD]劲爆体育 | epg.pw | <https://epg.pw/stream/e818d3257ef5580404a77b78ea4c07d0bf056911b99f2f2049bb9c2b1b67f529.m3u8> |
 | 91 | [BD]动漫秀场 | epg.pw | <https://epg.pw/stream/3db4e163a68d0e426d82c41072c03763ff9708ec882448590e3096d87f073067.ctv> |
 | 92 | [BD]北京影视 | epg.pw | <https://epg.pw/stream/ef0156aa81f438d9f6c46a0ba2edd98d507b9b053105904378d491422fbf9021.m3u8> |
 | 93 | [BD]北京文艺 | epg.pw | <https://epg.pw/stream/8d1156a87cd9a99a96edea7b1cf2d187504afb3d2308ab656b24f89f57279280.ctv> |
@@ -386,4 +386,4 @@
 | 380 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/9e19975896df3d324b0d0ab4910ef3cbbef123fc70e7371110b3fd53c2d9d2a9.m3u8> |
 | 381 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Tue May 07 2024 14:11:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 07 2024 16:13:37 GMT+0000 (Coordinated Universal Time)**
