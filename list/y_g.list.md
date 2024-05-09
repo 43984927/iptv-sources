@@ -1,4 +1,4 @@
-# List for **YanG-1989 Gather**
+# List for **YanG-1989 Gather**(Rollback)
 
 > M3U: [y_g.m3u](/y_g.m3u), TXT: [y_g.txt](/txt/y_g.txt)
 
@@ -183,4 +183,4 @@
 | 177 | 埋堆堆25 | tv.iill.top | <https://tv.iill.top/huya/23734256> |
 | 178 | 埋堆堆26 | tv.iill.top | <https://tv.iill.top/huya/23749083> |
 
-Updated at **Thu May 09 2024 12:21:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 09 2024 14:12:01 GMT+0000 (Coordinated Universal Time)**
