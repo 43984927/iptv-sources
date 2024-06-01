@@ -508,4 +508,4 @@
 | 502 | CGTN西语 | CGTN | <https://livees.cgtn.com/1000e/prog_index.m3u8> |
 | 503 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **Sat Jun 01 2024 02:30:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 01 2024 04:14:09 GMT+0000 (Coordinated Universal Time)**
