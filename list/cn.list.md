@@ -540,7 +540,7 @@
 | 534 | [BD]第一剧场 | stream.freetv.fun | <https://stream.freetv.fun/1ea56d25e481bf73442ba584c8652187d7a63708dd04f941771b31b6866cfc1c.m3u8> |
 | 535 | [BD]第一财经[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8> |
 | 536 | [BD]精彩影视 | stream.freetv.fun | <https://stream.freetv.fun/66da22339f78ff9e78a136bb988cf9e2b1657ff79dadfde88b18b4d5e6807da6.ctv> |
-| 537 | [HD]精彩动作电影 | stream.freetv.fun | <https://stream.freetv.fun/bf51da8d146193930ac43d88c0b12ca5bf95031dc89947ad338f232f6ba0ed23.ctv> |
+| 537 | [VGA]精彩动作电影 | stream.freetv.fun | <https://stream.freetv.fun/bf51da8d146193930ac43d88c0b12ca5bf95031dc89947ad338f232f6ba0ed23.ctv> |
 | 538 | [HD]绍兴公共频道 | stream.freetv.fun | <https://stream.freetv.fun/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8> |
 | 539 | [HD]绍兴文化影院 | stream.freetv.fun | <https://stream.freetv.fun/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8> |
 | 540 | [SD]绍兴新闻 | stream.freetv.fun | <https://stream.freetv.fun/3ebead7dcef07f7ea24dbdf1f24299de2dec8ddecf20737e5a00dce01b26cc3c.m3u8> |
@@ -662,4 +662,4 @@
 | 656 | [BD]黑龙江都市[ipv6] | stream.freetv.fun | <https://stream.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 657 | [HD]点掌财经 | stream.freetv.fun | <https://stream.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Mon Jun 24 2024 04:15:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 24 2024 06:17:29 GMT+0000 (Coordinated Universal Time)**
