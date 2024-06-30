@@ -1485,7 +1485,7 @@
 | 1479 | [VGA]sony | stream1.freetv.fun | <https://stream1.freetv.fun/54b1a3bd53111d9df3fc017dd96cb96887c28573e1c2a2bbc2b10d28ae983e31.ctv> |
 | 1480 | [BD]sony max | stream1.freetv.fun | <https://stream1.freetv.fun/def241336f673d665639222983ed65236b0e8e350bc75fc2f3eab6e62d494a43.ctv> |
 | 1481 | [HD]space | stream1.freetv.fun | <https://stream1.freetv.fun/d780d85ffb8ce3b8e233739370a05d4a5900dc2c696c2765bde2df23132751fa.m3u8> |
-| 1482 | [HD]yes sport 5 live hd | stream1.freetv.fun | <https://stream1.freetv.fun/2b117c917155ae83c92f46177739841a5e3f89ec8d7d76641eb49ad5d873f604.m3u8> |
+| 1482 | [HD]yes sport 5 live hd | stream1.freetv.fun | <https://stream1.freetv.fun/43eaab7f3016a9cafe8da96081bbf10cea359ee2154995f02c4bed82034d002a.m3u8> |
 | 1483 | [HD]sport club | stream1.freetv.fun | <https://stream1.freetv.fun/f56c508acac01b299ef869ac175f82a0b28e71e7bc511b108ffb58ebd18914e3.m3u8> |
 | 1484 | [SD]x sport | stream1.freetv.fun | <https://stream1.freetv.fun/cda639e227b8629028f9411d2ddb47b197d92711c794fc2e238e921be26c74ce.m3u8> |
 | 1485 | [BD]spotv 1 | stream1.freetv.fun | <https://stream1.freetv.fun/f70115fddda4d8e2be65a7e56af19f8de410f89781cf8f28675b2145d2f42760.ctv> |
@@ -1541,7 +1541,7 @@
 | 1535 | [VGA]sky-movies comedy | stream1.freetv.fun | <https://stream1.freetv.fun/0f42edeed73414463706c45a5f2b5f0d874c57e20d1513305f377f343907a75e.m3u8> |
 | 1536 | [BD]sky drama | stream1.freetv.fun | <https://stream1.freetv.fun/599571af44724dcd9f98979b223fd2ed82b09d01430d25a70430b6f287f8e222.ctv> |
 | 1537 | [VGA]action (kcks-ld4) (480p) | stream1.freetv.fun | <https://stream1.freetv.fun/5560a2b4c67b3baafd6bafb690e4a81a10e5be33c6d7849e11d6e95e9ad3ac60.m3u8> |
-| 1538 | [HD]Sky Premiere | stream1.freetv.fun | <https://stream1.freetv.fun/1039971a869be9e45d386558aa94b1c945cfeff6f625b04f545bafd7526a3d84.ctv> |
+| 1538 | [HD]SKY CINEMA PREMIERE | stream1.freetv.fun | <https://stream1.freetv.fun/c3395a0dff7f1fac66cc73f9ad022abe97f4d2a19e48d6ffacd17f6104576859.ctv> |
 | 1539 | [BD]SKY CINEMA SCI-FI | stream1.freetv.fun | <https://stream1.freetv.fun/836ebc465c24c47b0cac508b06299cbfba321fa41e3eb1c0fd212904f50a6cf6.ctv> |
 | 1540 | [HD]SKY CINEMA SHOWCASE | stream1.freetv.fun | <https://stream1.freetv.fun/4bf1cef07c20dd9055eb0da6854784e8cfb3c40f52e0d7ea5138e1e43d07e917.ctv> |
 | 1541 | [HD]kli thriller hd | stream1.freetv.fun | <https://stream1.freetv.fun/831c5adc6abdfd4759df78b7d9177fae914a6c2b71c35d215eaacbbdd5483e70.m3u8> |
@@ -2867,4 +2867,4 @@
 | 2861 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2862 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Jun 30 2024 10:11:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 30 2024 12:21:44 GMT+0000 (Coordinated Universal Time)**
