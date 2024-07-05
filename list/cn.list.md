@@ -139,7 +139,7 @@
 | 133 | [SD]动作影院 | stream1.freetv.fun | <https://stream1.freetv.fun/e39efd26ec96c638496bec71008a13903ddecf2faf0acee9cfeb034efce82d44.ctv> |
 | 134 | [BD]动漫秀场[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8> |
 | 135 | [SD]动漫[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/e61c6988eb7328137ad20820a9c412c94b96333c04ed44ba02215d1f33e907ef.m3u8> |
-| 136 | [BD]北京4k超清 | stream1.freetv.fun | <https://stream1.freetv.fun/b560cae438cc020e200e8bf333ec7d90d065168b269b9325f3eb6eec73d87c1b.ctv> |
+| 136 | [VGA]北京4k超清 | stream1.freetv.fun | <https://stream1.freetv.fun/b560cae438cc020e200e8bf333ec7d90d065168b269b9325f3eb6eec73d87c1b.ctv> |
 | 137 | [SD]卡酷少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/dcbc7525aff33fe5ac2363981c8fc101d4f0d9d7cd0796427ac956214b9230a4.m3u8> |
 | 138 | [BD]北京影视 | stream1.freetv.fun | <https://stream1.freetv.fun/cdcfe3ec6cca2a8ba74df72bc575c307bbc69e2fbf4cce276ef60356af2c472b.ctv> |
 | 139 | [BD]北京文艺 | stream1.freetv.fun | <https://stream1.freetv.fun/8d1156a87cd9a99a96edea7b1cf2d187504afb3d2308ab656b24f89f57279280.ctv> |
@@ -379,8 +379,8 @@
 | 373 | [HD]江西经视 | stream1.freetv.fun | <https://stream1.freetv.fun/09dc7fe1eea262d148085e1e4e19084e73bfd674495efc142fa3c01dd08d3ea1.m3u8> |
 | 374 | [BD]江西卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.m3u8> |
 | 375 | [HD]江西都市 | stream1.freetv.fun | <https://stream1.freetv.fun/6934d54a550b33f2dc6a9b04d3dd33fcbe8654fbc8a50207debe101f4088932d.ctv> |
-| 376 | [VGA]沂水生活 | stream1.freetv.fun | <https://stream1.freetv.fun/d7766ed947b2b8b9310b9c24dd4a226ad11644294a4d561d2bd4cab5df21ad2d.ctv> |
-| 377 | [VGA]沂水综合 | stream1.freetv.fun | <https://stream1.freetv.fun/3e5e5b55eff895f9a97d149afb302ed1728a0fdc9dffd7a251913602a63dcd07.ctv> |
+| 376 | [BD]沂水生活 | stream1.freetv.fun | <https://stream1.freetv.fun/d7766ed947b2b8b9310b9c24dd4a226ad11644294a4d561d2bd4cab5df21ad2d.ctv> |
+| 377 | [BD]沂水综合 | stream1.freetv.fun | <https://stream1.freetv.fun/3e5e5b55eff895f9a97d149afb302ed1728a0fdc9dffd7a251913602a63dcd07.ctv> |
 | 378 | [SD]河北三佳购物 | tv.pull.hebtv.com | <rtmp://tv.pull.hebtv.com/jishi/sanjiagouwu?t=2510710360&k=34ef10c67205a18084245127bd2e2240> |
 | 379 | [SD]河北公共 | tv.pull.hebtv.com | <rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96> |
 | 380 | [BD]河北少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/f4853170769e1c25d6087946aeced05789892e11264b6293a9ffca410e3c28f8.m3u8> |
@@ -495,7 +495,7 @@
 | 489 | [BD]甘肃都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/46c7df1cdf6f20ac222f2e4e6cd81449767cb9175dffa31f110d520aa9050294.m3u8> |
 | 490 | [BD]生活时尚[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/5e1548ecb7837ffba0767d48a1872d9892a7978a9e2cb268d2ed2f8ddb601799.m3u8> |
 | 491 | [BD]睛彩广场舞hd | stream1.freetv.fun | <https://stream1.freetv.fun/84bb89cdd47a8eb63174d9a1f5486496624f230d5b3b0e6764abda2a00e98fea.ctv> |
-| 492 | [BD]睛彩河北 | stream1.freetv.fun | <https://stream1.freetv.fun/67cbcd8a3ddcbb1d33892466dfee63499ed84d791343e02c4ce75f94e3b2dca4.ctv> |
+| 492 | [VGA]睛彩河北 | stream1.freetv.fun | <https://stream1.freetv.fun/67cbcd8a3ddcbb1d33892466dfee63499ed84d791343e02c4ce75f94e3b2dca4.ctv> |
 | 493 | [BD]睛彩竞技hd | stream1.freetv.fun | <https://stream1.freetv.fun/b29502ce002a9762b1bdb670113a1382b20cf67e167e6f12de0f454f95249fd1.ctv> |
 | 494 | [BD]睛彩篮球hd | stream1.freetv.fun | <https://stream1.freetv.fun/2e5c04ae352d8e9092c12ab1c4989a7b9cf79f282b38ec9c0b122fd8f4c042bf.ctv> |
 | 495 | [BD]睛彩羽毛球hd | stream1.freetv.fun | <https://stream1.freetv.fun/3976e141b74a1fab7d5425135cd9e59bc076b051f154bb372bc32230253f592d.ctv> |
@@ -642,4 +642,4 @@
 | 636 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 637 | [HD]点掌财经 | stream1.freetv.fun | <https://stream1.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Jul 05 2024 04:16:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 05 2024 06:18:02 GMT+0000 (Coordinated Universal Time)**
