@@ -79,7 +79,7 @@
 | 73 | [BD]newtv精品大剧[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/c169dc0eb342ab0d1d8b097853183954995fb6b84eaecad28b831d4098a999c5.m3u8> |
 | 74 | [BD]newtv精品纪录[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/dfb24b21e956eeba85df1d10904bcb4155427d5fd8aa208244a7f25acd180061.m3u8> |
 | 75 | [BD]newtv精品体育[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8> |
-| 76 | [BD]newtv超级综艺[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/5a1929c7c8bb87bcbedd15ec273a380741da43adc68122c1a39bf5ef9fae3a88.m3u8> |
+| 76 | [BD]newtv超级综艺[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/2cf4ee9e07f6e71de40bd6d9a9147d4e2ee8006441884770aa2a076a44f7f88a.m3u8> |
 | 77 | [BD]newtv超级电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/acb38406cf2e7ffd20ca4b5ea16c5ddeceb6218cf5a274cf87188fd142b998ab.m3u8> |
 | 78 | [BD]newtv超级体育[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/b191f502510abddca033ba095217fd929d479541a9c3b103759c0f5b829a3472.m3u8> |
 | 79 | [BD]newtv军事评论[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1c8cc922bf2681f29e0c2b99a392462a8f9f0f853d22f3a51a8c310d799563b0.m3u8> |
@@ -645,4 +645,4 @@
 | 639 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 | 640 | [HD]点掌财经 | stream1.freetv.fun | <https://stream1.freetv.fun/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Jul 05 2024 08:15:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 05 2024 10:13:42 GMT+0000 (Coordinated Universal Time)**
