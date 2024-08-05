@@ -63,7 +63,7 @@ Movies,#genre#
 [VGA]golden_tv,https://stream1.freetv.fun/c563ae92ecd0c702aa733883beeb44f9f1f9f2be2050fcf2696c94424c313bdc.m3u8
 [HD]magic_galaxy_hd,https://stream1.freetv.fun/5f24f81e9ade942bd79418c1d312b2f89daef82162252c8486eb8c2932e974c5.m3u8
 [BD]hbo,https://stream1.freetv.fun/39f4f6d28439d876bf2536f901175e203f4af36fc8bb74456c95315c9f55dc4b.ctv
-[BD]HBO_2,https://stream1.freetv.fun/a269c025b85b37cd2c30cdf2c69cdeb03ec5431e3949404a7aaea89b7aeaea3f.ctv
+[BD]HBO_2,https://stream1.freetv.fun/86f8e0e173e6c954d7cbfe07a4babe16a6920af21d05295012652df3aa10eaa0.ctv
 [HD]hbo_2_east,https://stream1.freetv.fun/087d248e94f8a576549db80cb255b528a18fe539f1be4705970d320eb63f6484.m3u8
 [HD]hbo_3,https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8
 [SD]HBO_Comedy,https://stream1.freetv.fun/4f35f8002c1450831ec7c07a6cbef036dfc8d5c6808c5b8c95c3ebf5ed06e928.ctv
@@ -1292,7 +1292,7 @@ Other,#genre#
 [HD]moon_tv,https://stream1.freetv.fun/a814ab95ef05f8b39dcae051d68390188f0c70c9a147e36fb6d91723bb7406ad.m3u8
 [BD]rtv_noord,https://stream1.freetv.fun/9cb20d18901ac00a148a8557f617d86b203e824bef0fa8112b3cc8f92eedda47.m3u8
 [BD]one,https://stream1.freetv.fun/93eeffe452a5cde6fa7ee3ad96c80b36e974c5214ed0992259e9c49cf589acb1.m3u8
-[HD]bcu_кинозал_premiere_1_hd,https://stream1.freetv.fun/ff82953a75dad1b6cc1ca497614ee638986b62a2593c50e19625ec943c5d6cdb.m3u8
+[HD]bcu_кинозал_premiere_3_hd,https://stream1.freetv.fun/7469889bdcbe4efb6b888d48c97ed1c2ab8d4fb64b0687a4e682e1b35945e561.m3u8
 [HD]bcu_кинозал_premiere_2_hd,https://stream1.freetv.fun/9784ad9ae716fbaa7c8015662e5aa88498e7f75bc0508bf9470140e03468ffbf.m3u8
 [BD]ontv,https://stream1.freetv.fun/791fc21bfa9a3d77df1ad5e694bb691095f44880dda949c1c50818bb5aa13b39.m3u8
 [BD]pet_club_tv,https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
