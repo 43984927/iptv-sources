@@ -44,7 +44,7 @@
 | 38 | [BD]alyaman shabab (1080p) [not 24/7] | stream1.freetv.fun | <https://stream1.freetv.fun/bab70664e188ae52eda0d9ffa5cf7cd9a82174f95e0ab1d471b88d041c57c057.m3u8> |
 | 39 | [HD]sur noticias andalucía | stream1.freetv.fun | <https://stream1.freetv.fun/9db0f5c695236903cf3ad86a9caea483824990463555befd3828f592ce8a201c.m3u8> |
 | 40 | [HD]xy plus 12 | stream1.freetv.fun | <https://stream1.freetv.fun/e4db5c2e2d5814f9f82090fe64706efe5f98b3ae07a1dfe1c0732410e397dc98.m3u8> |
-| 41 | [SD]5 Star Max | stream1.freetv.fun | <https://stream1.freetv.fun/b924d8cd0d82b2c5a733c76ed84f3246b5a979e08304ecd6be43c181454d153a.ctv> |
+| 41 | [SD]5 Star Max | stream1.freetv.fun | <https://stream1.freetv.fun/5ab696a218a74479e71230ca4266be76b36125c4380b1ce29872ac642acb3710.ctv> |
 | 42 | [HD]x plus milf hd | stream1.freetv.fun | <https://stream1.freetv.fun/d6a55b22908eb87a91979725883a007997b02fa3defb906da3c86045ed32556c.m3u8> |
 | 43 | [SD]5USA UK | stream1.freetv.fun | <https://stream1.freetv.fun/85cb6fe8ba43197550ae1e7d7d639cd4467c142afc40f37199b47f8379cd32ea.ctv> |
 | 44 | [HD]sky 1 australia | stream1.freetv.fun | <https://stream1.freetv.fun/bbcda979f929c1e3e86294f4cac1fc7174fc5c78522360132dbb86273e3b1acc.ctv> |
@@ -111,7 +111,7 @@
 | 105 | [HD]ASTRO AOD 311 | stream1.freetv.fun | <https://stream1.freetv.fun/79ed227da666cf1af52ea52be629d58ffd112b0769cc9a9ab174f52b367a4481.ctv> |
 | 106 | [HD]ASTRO AWANI | stream1.freetv.fun | <https://stream1.freetv.fun/e49834ce3542f840e4c4c98c33ca752702b1fb98c2a36459febee7138577394c.ctv> |
 | 107 | [BD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/1acb295b970367c9bcd8cac7d02019f12b731e8d2d72fbe19ff91a6e70bf3196.ctv> |
-| 108 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/5feb0f5d9cf4db7ce40ac7a525262b7e9a402bbc100eecb3728030d14dcf0029.ctv> |
+| 108 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/f747e96b44ceaa1eebb844661c143102e193589467ce178e38efabb8df246441.ctv> |
 | 109 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/7531b3855db352b8af5185732e85994946994a95f848d3a93070b76764c34884.ctv> |
 | 110 | [BD]ASTRO 华丽台 | stream1.freetv.fun | <https://stream1.freetv.fun/aa09005f835585b5a0736a6719f5b345b42267d103341eebcb3b470288886720.ctv> |
 | 111 | [BD]atfal & mawaheb tv | stream1.freetv.fun | <https://stream1.freetv.fun/e63ce3cfa960af2f9afe942fd44351071b625b0949afe12feb4790a99343c076.m3u8> |
@@ -422,7 +422,7 @@
 | 416 | [HD]canale 7 | stream1.freetv.fun | <https://stream1.freetv.fun/11ee5894ddd7f88691b512e977ab23e351524f6f4d8747d2193e1d6248a68c1b.m3u8> |
 | 417 | [BD]music | stream1.freetv.fun | <https://stream1.freetv.fun/9026f58f45cabd4929f7436236936adf64fce996e0b14a5368a806703551aa2e.m3u8> |
 | 418 | [VGA]campus tv | stream1.freetv.fun | <https://stream1.freetv.fun/34f9940ca6651acb6d01a9bfc63fa3315cd34d82cd983b192da98fae2a5a28f0.m3u8> |
-| 419 | [HD]Cartoon Network | stream1.freetv.fun | <https://stream1.freetv.fun/164711de67d563a93addefffd2a43ab4d68aabdb96cc80f7e2dd49cd45931730.ctv> |
+| 419 | [HD]Cartoon Network | stream1.freetv.fun | <https://stream1.freetv.fun/54ead22996370f5ddb130a75b1b1be1a3a7731e35325543a7bbb5da19c8185b4.ctv> |
 | 420 | [VGA]retro cartoon | stream1.freetv.fun | <https://stream1.freetv.fun/a053c350aa5bd7039c395719379d271b808638d9dd91c431e0c0a2d058423ce1.m3u8> |
 | 421 | [BD]cartoonito | stream1.freetv.fun | <https://stream1.freetv.fun/92036a566b464443eb00b90db1ea81656f5de9768cd3d341f0eabb0e58c72457.m3u8> |
 | 422 | [SD]celestial movies | stream1.freetv.fun | <https://stream1.freetv.fun/7f64de3d9f8c00dcd496a9e0a490f0a9d1bf1d26a0250a7d6f68be646f83a2a5.ctv> |
@@ -1322,7 +1322,7 @@
 | 1316 | [BD]ebony tv | stream1.freetv.fun | <https://stream1.freetv.fun/cafe047944166445496d468d1a8142299c99a73fb5c3143e1d4309bd2c2a5c4c.m3u8> |
 | 1317 | [BD]space | stream1.freetv.fun | <https://stream1.freetv.fun/a777c7770a5b81a45ba6f0b3f53541ba5860494dd2704174c49d482cf9f7c08d.ctv> |
 | 1318 | [HD]spectrum sportsnet | stream1.freetv.fun | <https://stream1.freetv.fun/4891e6caf467c4f1ab545a0ef9d059882cae4a137a3fe1d09c5ad0d0258caa59.m3u8> |
-| 1319 | [BD]spectrum sportsnet lakers | stream1.freetv.fun | <https://stream1.freetv.fun/0a52dcb13df14a097e2102a72181e0f53c634b9a2db14afc69f77732bd7a9b28.ctv> |
+| 1319 | [HD]spectrum sportsnet lakers | stream1.freetv.fun | <https://stream1.freetv.fun/1c46b86e43121d07b53dcbfe4418a45c9a986d53e4f552511fde312a57f57d14.ctv> |
 | 1320 | [HD]spiegel tv konflikte | stream1.freetv.fun | <https://stream1.freetv.fun/08f06dccf5cabb1d49b6871e98ba9ee01a30b6a0870f1ba78d4e35c5c2229e7e.m3u8> |
 | 1321 | [HD]spirit tv | stream1.freetv.fun | <https://stream1.freetv.fun/4f97605ea379775ec63a63243a1d73eb7289ddae22beb41a7a97631e661c7c3a.m3u8> |
 | 1322 | [BD]sportv 1 | stream1.freetv.fun | <https://stream1.freetv.fun/2b37ccef1c6334cc915c4d6746518c7fad7e6fd4cc78cd17a5bcc0ac5b979e01.ctv> |
@@ -2272,4 +2272,4 @@
 | 2266 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2267 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Nov 07 2024 04:16:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 07 2024 06:19:13 GMT+0000 (Coordinated Universal Time)**
