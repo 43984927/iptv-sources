@@ -110,7 +110,7 @@
 | 104 | [HD]ASTRO AWANI | stream1.freetv.fun | <https://stream1.freetv.fun/e49834ce3542f840e4c4c98c33ca752702b1fb98c2a36459febee7138577394c.ctv> |
 | 105 | [BD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/14d0cdcfbafffc04b5236bfdec055158e5d6caf632ac841c367fe60459766079.ctv> |
 | 106 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/f747e96b44ceaa1eebb844661c143102e193589467ce178e38efabb8df246441.ctv> |
-| 107 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/c093b74172cfcbc8a6b3cfd37ccbd8c41bf7944a8405164f41b2559c92942e17.ctv> |
+| 107 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/81caf7636f6a3e639355710f709019aa0e450c6f2fc0de543bc41a9a595e53a3.ctv> |
 | 108 | [BD]ASTRO 华丽台 | stream1.freetv.fun | <https://stream1.freetv.fun/aa09005f835585b5a0736a6719f5b345b42267d103341eebcb3b470288886720.ctv> |
 | 109 | [BD]atfal & mawaheb tv | stream1.freetv.fun | <https://stream1.freetv.fun/e63ce3cfa960af2f9afe942fd44351071b625b0949afe12feb4790a99343c076.m3u8> |
 | 110 | [VGA]atv az | stream1.freetv.fun | <https://stream1.freetv.fun/bffe36bc2cbcb2b36eab73c5c69b6f93ce9e8dc73ff55dc7bc28b2fbfc57cc65.m3u8> |
@@ -2261,4 +2261,4 @@
 | 2255 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2256 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Nov 08 2024 10:14:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Nov 08 2024 12:27:01 GMT+0000 (Coordinated Universal Time)**
