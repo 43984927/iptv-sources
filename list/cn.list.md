@@ -169,11 +169,11 @@
 | 163 | [HD]广州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ccc0bddff57b8c467a86d60eb3d1207f4621bd91628371ced6d794ed1774481c.m3u8> |
 | 164 | [BD]广州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/6d9c91c2ed4010a55e36e4649b2c67999244f359a2d995fb433e5eacd8361079.ctv> |
 | 165 | [BD]广东公共高清 | stream1.freetv.fun | <https://stream1.freetv.fun/07ac37bc1597316ee12edac848ed951cf917e99698d53c734b0c78d98a432be2.m3u8> |
-| 166 | [BD]广东少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/7f5d91d703ee916906433f86d026c8b9cde7d83dd34d9d02fbbf129f5f9e319c.ctv> |
+| 166 | [BD]广东少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/a05edc5f347bdf55ab857398a822ccb05247c9ba824ee67416563df114a09728.ctv> |
 | 167 | [BD]广东影视 | stream1.freetv.fun | <https://stream1.freetv.fun/d467ac13a5ecbbd309b10ee6ea775c54b2783135482ff0c5a3535758561fc9e4.ctv> |
 | 168 | [BD]广东新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/1d912cd04d0a4150f559f58f463b518f14de96edefde8783d47507eaca47cdac.ctv> |
 | 169 | [SD]广东民生 | stream1.freetv.fun | <https://stream1.freetv.fun/68f2612150667cf3ff5a8ea7636ba84d93f77dd3f23731590a4ec5131b961030.m3u8> |
-| 170 | [BD]广东珠江 | stream1.freetv.fun | <https://stream1.freetv.fun/468bff09871ed8a1eba7a539f461001a9683ac2cbb084ef2d52449c7f1a52478.ctv> |
+| 170 | [HD]广东珠江 | stream1.freetv.fun | <https://stream1.freetv.fun/ac8f9da3dc774d6672d450c9168295e186070ee189416efa1e9724368f9fc0a3.ctv> |
 | 171 | [HD]广东珠江[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/9b197f10a84e5a16697ed4669f062e2ad9f69c901d933a50b1a6a9684ef8dfa6.m3u8> |
 | 172 | [SD]广东移动 | stream1.freetv.fun | <https://stream1.freetv.fun/23d6b5b9a57668589dd649f7ba7a4a47221287eafd55b0f74ecbfc3573c802be.m3u8> |
 | 173 | [BD]广东经济高清 | stream1.freetv.fun | <https://stream1.freetv.fun/15dda45e98d5f8ad970b72c8910e32a1b4e3308b9e82b6d8604d9ba15ace0482.m3u8> |
@@ -402,4 +402,4 @@
 | 396 | [BD]黑龙江卫视 50 fps | stream1.freetv.fun | <https://stream1.freetv.fun/7e118a9a23ec7f770a7bb9646a05267e59cf45f1da34bad27223781c1e1a9644.m3u8> |
 | 397 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Tue Jan 14 2025 08:17:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 14 2025 10:14:08 GMT+0000 (Coordinated Universal Time)**
