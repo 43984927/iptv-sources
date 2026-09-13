@@ -9533,4 +9533,4 @@
 | 9527 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 9528 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **Sat Sep 12 2026 23:41:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 13 2026 02:55:04 GMT+0000 (Coordinated Universal Time)**
